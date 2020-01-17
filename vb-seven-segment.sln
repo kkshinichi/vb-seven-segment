@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "vb-seven-segment", "vb-seven-segment\vb-seven-segment.vbproj", "{76304410-0B20-483A-A7BF-A719388CCB6F}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "7 segment", "..\..\dotconnector1\7-segment-display\7 segment\7 segment.vbproj", "{DFBDF059-FBBF-4E53-8ECB-7C8FBD395AC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,11 +17,15 @@ Global
 		{76304410-0B20-483A-A7BF-A719388CCB6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76304410-0B20-483A-A7BF-A719388CCB6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76304410-0B20-483A-A7BF-A719388CCB6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFBDF059-FBBF-4E53-8ECB-7C8FBD395AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBDF059-FBBF-4E53-8ECB-7C8FBD395AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBDF059-FBBF-4E53-8ECB-7C8FBD395AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBDF059-FBBF-4E53-8ECB-7C8FBD395AC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D590BD3C-3296-418F-B711-ECFA3AA15E06}
+		SolutionGuid = {DC1BF406-D5DC-4231-8CE5-CBEBE7F3F8EF}
 	EndGlobalSection
 EndGlobal
